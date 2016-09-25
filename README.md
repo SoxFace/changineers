@@ -2,7 +2,10 @@
 
 - check cross browser support
 - check accessibility
-- fix responsiveness on anchors
+- fix responsiveness on anchor buttons
+- add Ian's profile
+- add what
+- add how
 
 ## Acknowledgement
 
