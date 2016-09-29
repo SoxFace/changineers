@@ -9,8 +9,7 @@
 - add Ian's profile
 - add what
 - add how
-- create video for who section
 
-## Acknowledgement
+## Acknowledgment
 
 Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
