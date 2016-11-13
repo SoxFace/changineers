@@ -234,3 +234,17 @@ ul {
   max-height: 100%;
   box-sizing: border-box; 
 }
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.problem {
+  color: #870c25;
+}
+
+strong {
+  color: #870c25;
+}

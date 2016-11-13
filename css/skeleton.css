@@ -364,7 +364,8 @@ form {
   box-sizing: border-box; }
 .u-max-full-width {
   max-width: 100%;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 .u-pull-right {
   float: right; }
 .u-pull-left {
@@ -416,11 +417,3 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
-
-.problem {
-  color: #870c25;
-}
-
-strong {
-  color: #870c25;
-}
